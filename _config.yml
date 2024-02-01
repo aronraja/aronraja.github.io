@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Aron
-middle_name: Raja
-=======
 title: blank
 first_name: Aron
 middle_name: Ron
->>>>>>> f443675120ae43617fceee557c8411e8789ef112
 last_name: Raja
 email: you@example.com
 description: >
