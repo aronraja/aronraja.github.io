@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aronraja.github.io/sitemap.xml
+Sitemap: https://aronraja.com/sitemap.xml
